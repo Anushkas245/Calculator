@@ -36,6 +36,7 @@ This project is a great demonstration of how to build a fully functional desktop
 ---
 
 Author: Anushka Salkar 
+
 Feel free to try it out and explore the code to see how dynamic UI elements and event-driven programming work together to create an interactive app!
 
 [LinkedIn](https://www.linkedin.com/in/anushkas245) | [GitHub](https://github.com/Anushkas245) | [email id](anushkasalkar245@gmail.com)
